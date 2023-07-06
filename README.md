@@ -1,6 +1,6 @@
 # Multilist Project
 
-This project was created for my Data Structures and Algorithms course. It creates an organized student and class multilist using pointers. 
+This project was created for my Data Structures and Algorithms course. It creates an organized multilist for students and classes using pointers.
 
 ## Functions
 * Read an input file and add the nodes to the multilist
