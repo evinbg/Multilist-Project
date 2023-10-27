@@ -17,5 +17,5 @@ inserting the files into the Source Files should allow the code to run in Visual
 You have to put the multilist_input.txt file in the Visual Studio project's directory, 
 which usually looks something like: `C:\Users\Username\source\repos\Multilist\Multilist\`
   
-I also included a makefile, so the code can run on the Unix command line. The command to run the 
+I also included a makefile, so the code can run on the Linux command line. The command to run the 
 code is `make run`.
